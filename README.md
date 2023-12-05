@@ -15,8 +15,13 @@ I built while learning React.
 - **Rendering Lists** <br/>
 Display multiple components by using JavaScript’s filter() and map() to filter and transform array of data into an array of components.
 - **Check List** <br/>
-
-
+- **Stop Watch** <br/>
+- **Quiz** <br/>
+- **Counter** <br/>
+- **Accordions** <br/>
+- **Messenger** <br/>
+- **Form** <br/>
+- **Video Play** <br/>
 <br/>
 
 ## Built With
