@@ -25,7 +25,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://juliisstudy.github.io/react-projects/
+      url: https://juliisstudy.github.io/vite-deploy
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
