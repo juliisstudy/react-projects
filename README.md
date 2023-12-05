@@ -8,10 +8,6 @@ I implemented the <a href="https://juliisstudy.github.io/react-projects/">React 
 
 <br/>
 
-
-## About the Project
-Thank you for visiting this site. This site contains some small React projects
-I built while learning React.
 - **Rendering Lists** <br/>
 Display multiple components by using JavaScript’s filter() and map() to filter and transform array of data into an array of components.
 - **Check List** <br/>
