@@ -34,7 +34,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
           <Route path="video-play" element={<VideoPlay />} />
           <Route path="form" element={<FormII />} />
 
-          <Route path="*" element={<NoPage />} />s
+          <Route path="*" element={<Home />} />
         </Route>
       </Routes>
     </BrowserRouter>  </React.StrictMode>,
