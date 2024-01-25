@@ -2,8 +2,8 @@ import {useState} from 'react';
 import Form from './Form';
 export default function FormII() {
     const [person, setPerson] = useState({
-      firstName: "Juli",
-      lastName: "Li",
+      firstName: "John",
+      lastName: "Smith",
       email: "123@gmail.com",
     });
   
